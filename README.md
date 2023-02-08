@@ -15,7 +15,7 @@
 
 <hr/>
 
-<img src="cover.jpg" height="500" width="900"/>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJqaRwdYaQPks_TKet0XeRy79CF90Syj6YUpwOYlEtrN-5HmY2qMeI0f74KBpKOq3wvTnqF_BTCzrBfTZo4nXXcAfOSCXo7mIK43-0BnpNueEfeqx66puEH4JsE8e6Lu3MXd0BZ1wM7r99QADhTdtb0A_-BcSzM8Aam47F8IKH0VYWc2n4XoKzUp4J/s1600/20230205_130649.jpg" height="500" width="900"/>
 
 <hr/>
 
